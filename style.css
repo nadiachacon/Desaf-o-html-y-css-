@@ -1,0 +1,46 @@
+*{
+    padding: 0rem;
+    margin: 0rem;
+}
+
+
+header {
+
+    background-color: grey;
+    margin: 0rem;
+    padding: 0rem 10rem;
+    height: 15rem;
+
+
+
+}
+
+h1{
+    color: white;
+}
+
+span{
+    font-weight: 1;
+}
+
+
+.contenido {
+    padding: 0rem 10rem;
+    margin: 0;
+    
+}
+
+#boton{
+    padding: 0rem ;
+    margin: 0rem 10rem;
+}
+footer {
+    background-color: grey;
+    margin: 0rem;
+    padding: 0rem 10rem;
+    height: 20rem;
+}
+
+
+
+
